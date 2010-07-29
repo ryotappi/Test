@@ -1,0 +1,9 @@
+#Sat Oct 31 01:22:28 JST 2009
+DaoType=S2JDBC
+DefaultResourcePath=/Test/src/main/resources
+DefaultRootPackage=jp.co.test
+DefaultSrcPath=/Test/src/main/java
+ServletPath=Test
+ViewType=SA-Struts
+WebContentsRoot=src/main/webapp
+eclipse.preferences.version=1
