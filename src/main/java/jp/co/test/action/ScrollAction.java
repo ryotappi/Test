@@ -17,6 +17,7 @@ public class ScrollAction {
 	@Execute(validator = true, input="index.jsp")
 	public String index() {
 		System.out.println("eclipse3.5から");
+		System.out.println("eclipse3.5から2回目");
 		return "index.jsp";
 	}
 }
