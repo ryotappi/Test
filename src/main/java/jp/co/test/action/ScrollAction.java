@@ -19,6 +19,7 @@ public class ScrollAction {
 		System.out.println("eclipse3.5から");
 		System.out.println("eclipse3.5から2回目");
 		System.out.println("eclipse3.5からmasterブランチ");
+		System.out.println("githubからmasterブランチ");
 		return "index.jsp";
 	}
 }
